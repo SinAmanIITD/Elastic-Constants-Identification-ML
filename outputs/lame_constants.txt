@@ -1,0 +1,6 @@
+APL104 — Identified Lamé Constants
+=============================================
+λ  (Lamé 1st constant) = 1.240428e+11 Pa
+μ  (Shear Modulus G)   = 7.981363e+10 Pa
+E  (Young's Modulus)   = 2.081923e+11 Pa (208.1923 GPa)
+ν  (Poisson's Ratio)   = 0.304241
